@@ -1,0 +1,11 @@
+C:\Users\EFREN\Documents\Olimpia\IntersectionOfTwoCircles\IntersectionOfTwoCircles\bin\Debug\netcoreapp2.1\IntersectionOfTwoCircles.deps.json
+C:\Users\EFREN\Documents\Olimpia\IntersectionOfTwoCircles\IntersectionOfTwoCircles\bin\Debug\netcoreapp2.1\IntersectionOfTwoCircles.runtimeconfig.json
+C:\Users\EFREN\Documents\Olimpia\IntersectionOfTwoCircles\IntersectionOfTwoCircles\bin\Debug\netcoreapp2.1\IntersectionOfTwoCircles.runtimeconfig.dev.json
+C:\Users\EFREN\Documents\Olimpia\IntersectionOfTwoCircles\IntersectionOfTwoCircles\bin\Debug\netcoreapp2.1\IntersectionOfTwoCircles.dll
+C:\Users\EFREN\Documents\Olimpia\IntersectionOfTwoCircles\IntersectionOfTwoCircles\bin\Debug\netcoreapp2.1\IntersectionOfTwoCircles.pdb
+C:\Users\EFREN\Documents\Olimpia\IntersectionOfTwoCircles\IntersectionOfTwoCircles\obj\Debug\netcoreapp2.1\IntersectionOfTwoCircles.csprojAssemblyReference.cache
+C:\Users\EFREN\Documents\Olimpia\IntersectionOfTwoCircles\IntersectionOfTwoCircles\obj\Debug\netcoreapp2.1\IntersectionOfTwoCircles.csproj.CoreCompileInputs.cache
+C:\Users\EFREN\Documents\Olimpia\IntersectionOfTwoCircles\IntersectionOfTwoCircles\obj\Debug\netcoreapp2.1\IntersectionOfTwoCircles.AssemblyInfoInputs.cache
+C:\Users\EFREN\Documents\Olimpia\IntersectionOfTwoCircles\IntersectionOfTwoCircles\obj\Debug\netcoreapp2.1\IntersectionOfTwoCircles.AssemblyInfo.cs
+C:\Users\EFREN\Documents\Olimpia\IntersectionOfTwoCircles\IntersectionOfTwoCircles\obj\Debug\netcoreapp2.1\IntersectionOfTwoCircles.dll
+C:\Users\EFREN\Documents\Olimpia\IntersectionOfTwoCircles\IntersectionOfTwoCircles\obj\Debug\netcoreapp2.1\IntersectionOfTwoCircles.pdb
